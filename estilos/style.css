@@ -185,15 +185,15 @@ aside > ul {
     list-style-type: '\2714\00A0';
     list-style-position: inside;
     columns: 2;
-    font-size: 0.70em;
 }
 
 footer {
     color: white;
     background-color: var(--cor5);
     padding: 5px;
+    height: 5em;
     text-align: center;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 footer a {
@@ -202,7 +202,18 @@ footer a {
     font-weight: bold;
 }
 
+.fa-linkedin, .fa-github-square {
+    font-size: 2.1em;
+    padding: 1px;
+}
+
 footer a:hover {
     color: var(--cor1);
     text-decoration: underline;
+}
+
+@media (max-width: 460px) {
+    aside > ul {
+        font-size: 3.1vw;
+    }
 }
