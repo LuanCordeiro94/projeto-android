@@ -1,2 +1,5 @@
-# projeto-android
-Projeto Android criado no capítulo 17 do curso de HTML5  e CSS3
+# Projeto Android
+
+<a href="https://luancordeiro94.github.io/projeto-android/"><img src="./imagens/projeto-android.gif" alt="Projeto android funcionando"></a>
+
+Clique para ser direcionado ao site
